@@ -4,6 +4,7 @@ import LogiTalkAuth
 import socket
 import threading
 
+
 win = LogiTalkAuth.MenuAuth()
 win.mainloop()
 env = win.env
